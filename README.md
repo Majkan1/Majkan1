@@ -9,7 +9,7 @@ I learn very fast and effective almast everyday I post something on Github so st
 
 
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9df5b77e-9167-49a6-9716-5111f0f22f39" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9df5b77e-9167-49a6-9716-5111f0f22f39" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d956269-9639-4c21-9c4f-56f39320339f" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2a3855da-6d36-47a8-9e31-f37f89da785d" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/593cc516-199f-4e3d-81a8-f0002a1e17c3" />
