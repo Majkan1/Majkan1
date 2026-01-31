@@ -10,3 +10,5 @@ I am vary curious person so I believe this is th emost important feature a devel
 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9448db70-a2f5-4abb-b566-409a42db2d9d" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ed764a0c-f640-471b-8857-445bdf1e6bb8" />
+
