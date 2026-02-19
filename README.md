@@ -6,7 +6,7 @@ I am vary curious person so I believe this is th emost important feature a devel
 
 
 
-# The technologies that I use:
+# The technologies which I use:
 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9448db70-a2f5-4abb-b566-409a42db2d9d" />
