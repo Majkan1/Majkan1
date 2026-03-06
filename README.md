@@ -1,8 +1,51 @@
-# Mikolaj-Michalak
-Hi my name is Mikołaj Michalak and this is repository about me .
-I am curently studying Computer Science . I the Future I want to be a front-developer and then a fullstack .
-I learn very fast and effective almast everyday I post something on Github so stay tune and see you soon.
-I am vary curious person so I believe this is th emost important feature a developer should have.
+# Hi, I'm Mikołaj Michalak 👋
+
+💻 Computer Science student
+🚀 Future Front-End / Full-Stack Developer
+
+## About Me
+
+I am a Computer Science student who is passionate about programming and building web applications.
+My main focus is **Front-End Development**, and my goal is to become a **Full-Stack Developer** in the future.
+
+I enjoy learning new technologies and improving my coding skills every day.
+I am a **fast and dedicated learner**, and I love solving problems through code.
+
+## Skills
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* Git & GitHub
+
+## Current Focus
+
+Right now I am working on:
+
+* Building React projects
+* Improving my TypeScript skills
+* Creating portfolio projects for real-world experience
+
+## Projects
+
+You can find my projects in my repositories.
+I focus on building practical applications such as:
+
+* Budget trackers
+* Todo apps
+* Small productivity tools
+
+## Contact
+
+📧 Feel free to contact me if you are interested in working with me.
+
+---
+
+⭐ I am currently looking for **junior front-end developer opportunities**.
+
+
 
 
 
