@@ -19,6 +19,7 @@ I am a **fast and dedicated learner**, and I love solving problems through code.
 * TypeScript
 * React
 * Git & GitHub
+* Twailand CSS
 
 ## Current Focus
 
