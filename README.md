@@ -60,4 +60,4 @@ I focus on building practical applications such as:
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1af051f5-fee5-4179-b175-e0127ba2b0db" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a9a541e2-5672-4383-acf5-be770fb563f9" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/45b82f4e-1550-4a6c-abbc-5e22744d96e7" />
-<img width = "50" height = "50" src="https://skillicons.dev/icons?i=tailwind"/>
+<img width = "50" height = "50" src="https://skillicons.dev/icons?i=tailwind" />
