@@ -18,7 +18,7 @@ and I'm actively looking for an international internship.
 | School | Computer Science @ Wrocław University of Science and Technology |
 | Focus | Front-End — React, TypeScript, component architecture |
 | Learning now | Vitest · React Testing Library · Web performance |
-| Goal | International internship in 2025 |
+| Goal | International internship in 2026 |
 | English | B2 Upper-Intermediate |
 
 ---
