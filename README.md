@@ -1,12 +1,12 @@
 # Hi, I'm Mikołaj Michalak 👋
 
 💻 Computer Science student
-🚀 Future Front-End / Full-Stack Developer
+🚀 Future Front-End 
 
 ## About Me
 
 I am a Computer Science student who is passionate about programming and building web applications.
-My main focus is **Front-End Development**, and my goal is to become a **Full-Stack Developer** in the future.
+My main goal is to become a **Front-End Development** in the future.
 
 I enjoy learning new technologies and improving my coding skills every day.
 I am a **fast and dedicated learner**, and I love solving problems through code.
@@ -35,8 +35,8 @@ You can find my projects in my repositories.
 I focus on building practical applications such as:
 
 * Budget trackers
-* Todo apps
-* Small productivity tools
+* Weather App
+* Cocktail App
 
 ## Contact
 
