@@ -1,32 +1,3 @@
-Preview — how it looks on your profile
-Hi, I'm Mikołaj 👋
-Front-End Developer based in Wrocław, Poland. I build responsive web apps with React and TypeScript, and I'm actively looking for an international internship.
-
-React 18
-TypeScript
-CSS3 / Tailwind
-Git / GitHub
-Vite
-About me
-School	Computer Science @ Wrocław University of Science and Technology
-Focus	Front-End development — React, TypeScript, component architecture
-Learning	Testing (Vitest + React Testing Library), SSR, web performance
-Goal	International internship in 2025
-English	B2 Upper-Intermediate
-Featured projects
-Kotlin Website Migration — JetBrains internship task
-Migrated the Kotlin homepage to React Router 7 with SSR. Includes Docker + Vercel + GitHub Actions CI.
-React 19 · TypeScript · React Router 7 · Tailwind · Docker
-Real-Time Weather Dashboard
-Fetches live weather via REST API. Includes loading states, error handling, and memoized components.
-React · JavaScript · OpenWeatherMap API
-Mini Budget Tracker
-SPA for tracking income and expenses. Strict TypeScript interfaces, unidirectional data flow.
-React · TypeScript · CSS3 · Vite
-Currently working on
-Finishing Cocktail App · Building a portfolio website · Learning Vitest
-
-Raw markdown — copy this into your README.md
 # Hi, I'm Mikołaj 👋
 
 Front-End Developer based in Wrocław, Poland.  
