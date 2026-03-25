@@ -46,7 +46,7 @@ interfaces and unidirectional data flow.
 ---
 
 ## Currently working on
-- Finishing Cocktail App
+- Learning Next.js
 - Building a portfolio website
 - Learning Vitest + React Testing Library
 
