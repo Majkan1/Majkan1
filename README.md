@@ -25,12 +25,6 @@ and I'm actively looking for an international internship.
 
 ## Featured projects
 
-### Kotlin Website Migration — JetBrains internship task
-Migrated the Kotlin homepage to React Router 7 with full SSR.
-Includes Docker containerisation, Vercel deploy config, and GitHub Actions CI.  
-`React 19` `TypeScript` `React Router 7` `Tailwind` `Docker`  
-[GitHub](https://github.com/Majkan1/jetbrains-internship)
-
 ### Real-Time Weather Dashboard
 Live weather app using the OpenWeatherMap REST API.
 Loading states, error handling, and memoized components.  
