@@ -58,7 +58,7 @@ Personal finance SPA with strict TypeScript interfaces and unidirectional data f
 
 ## Currently working on
 
-- 🔨 Building my personal portfolio website (Next.js + Tailwind)
+- 🔨 Building my personal portfolio website (React + Tailwind)
 - 🧪 Learning Jest + React Testing Library
 - ⚡ Studying Web Performance & Core Web Vitals
 - 📖 Jonas Schmedtmann's Ultimate React Course 2025
