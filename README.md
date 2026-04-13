@@ -61,7 +61,7 @@ Personal finance SPA with strict TypeScript interfaces and unidirectional data f
 - 🔨 Building my personal portfolio website (React + Tailwind)
 - 🧪 Learning Jest + React Testing Library
 - ⚡ Studying Web Performance & Core Web Vitals
-- 📖 Jonas Schmedtmann's Ultimate React Course 2025
+- 📖 Deepening React knowledge — testing patterns, performance optimization
 
 ---
 
