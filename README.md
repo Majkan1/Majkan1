@@ -37,7 +37,7 @@ Dynamic routing, server components, error boundaries, deployed to Vercel.
 
 ### ☁️ Real-Time Weather Dashboard
 Live weather app using the **Open-Meteo REST API**. 500ms debounce, dynamic day/night icons, memoised components, fully responsive.  
-`React 18` `JavaScript` `REST API` `CSS` `GitHub Pages`  
+`React 18` `TypeScript` `REST API` `CSS` `GitHub Pages`  
 [Live →](https://majkan1.github.io/weather-app/) · [GitHub →](https://github.com/Majkan1/weather-app)
 
 ---
@@ -66,4 +66,4 @@ Personal finance SPA with strict TypeScript interfaces and unidirectional data f
 ---
 
 *Open to international internship opportunities — feel free to reach out!*  
-📧 majkanart117@gmail.com · [LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-michalak-5278513b5/)
+📧 majkanart117@gmail.com · [LinkedIn](https://www.linkedin.com/in/nicholas-michalak)
