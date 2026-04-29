@@ -42,7 +42,7 @@ I specialize in building modern, performant web applications with **React** and 
 
 ### 💡 What I'm currently learning & improving
 
-- Advanced **testing patterns** (integration, e2e with Playwright)
+- Advanced **testing patterns**
 - **System design** and scaling Next.js applications
 - **PostgreSQL** query optimization and RLS policies with Supabase
 
