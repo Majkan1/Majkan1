@@ -1,69 +1,59 @@
-# Hi, I'm Mikołaj 👋
+## Hi there, I'm Majkan 👋
 
-**Front-End Developer** based in Wrocław, Poland.  
-I build fast, responsive web apps with **React**, **TypeScript**, and **Next.js**.  
-Actively looking for an **international internship in 2026**.
+**Front-end & Full-Stack Developer** • based in Wrocław, Poland 🇵🇱  
+Actively looking for **internship / junior position** (Front-end or Full-Stack)
 
-[![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+I specialize in building modern, performant web applications with **React** and **Next.js**, always backed by solid TypeScript. Recently I've expanded into full-stack territory using **Prisma** and **Supabase**, with a strong focus on testing ( **Vitest** + **React Testing Library**).
 
 ---
 
-## About me
+### 🛠 Tech Stack
 
-| | |
-|---|---|
-| 🎓 **School** | Computer Science @ Wrocław University of Science and Technology |
-| 🎯 **Focus** | Front-End — React, TypeScript, component architecture |
-| 📚 **Learning now** | Next.js 16 · Jest · React Testing Library · Web Performance |
-| 🌍 **Goal** | International internship in 2026 |
-| 🗣️ **English** | B2 Upper-Intermediate |
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
----
+**Testing**  
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 
-## Featured projects
-
-### 🏆 Sport App *(newest — Next.js 16)*
-Sports league browser built with **Next.js 16 App Router**, TypeScript & Tailwind CSS.  
-Dynamic routing, server components, error boundaries, deployed to Vercel.  
-`Next.js 16` `TypeScript` `Tailwind CSS` `TheSportsDB API` `Vercel`  
-[Live →](https://sport-app-majkan.vercel.app/) · [GitHub →](https://github.com/Majkan1/Sport-app)
-
----
-
-### ☁️ Real-Time Weather Dashboard
-Live weather app using the **Open-Meteo REST API**. 500ms debounce, dynamic day/night icons, memoised components, fully responsive.  
-`React 18` `TypeScript` `REST API` `CSS` `GitHub Pages`  
-[Live →](https://majkan1.github.io/weather-app/) · [GitHub →](https://github.com/Majkan1/weather-app)
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-### 🍹 Cocktail Browser
-React + TypeScript SPA browsing 250 cocktails. Real-time search, pagination, favourites, strict TypeScript interfaces throughout.  
-`React 18` `TypeScript` `React Router v6` `REST API` `GitHub Pages`  
-[Live →](https://majkan1.github.io/Cocktail-App/) · [GitHub →](https://github.com/Majkan1/Cocktail-App)
+### 🚀 Featured Projects
+
+- **[Workout Tracker](https://github.com/Majkan1/workout-tracker)** – Full-stack fitness tracking app with Next.js 16, Prisma, Supabase (auth + DB), Server Actions, and 100% test coverage (Vitest + RTL).
+- **[Sport App](https://github.com/Majkan1/sport-app)** – Next.js league browser with dynamic routing, error boundaries, API integration, fully tested, deployed on Vercel.
+- **[Cocktail App](https://github.com/Majkan1/cocktail-app)** – SPA with React, TypeScript, React Router v6, search & pagination, unit tested with Vitest.
+- **[Weather App](https://github.com/Majkan1/weather-app)** – Minimalist weather app with debounce, dynamic icons, Open-Meteo API, tested and refactored into reusable components.
+
+> Check out all repos: [github.com/Majkan1?tab=repositories](https://github.com/Majkan1?tab=repositories)
 
 ---
 
-### 💰 Mini Budget Tracker
-Personal finance SPA with strict TypeScript interfaces and unidirectional data flow. Real-time balance, category tagging, clean empty states.  
-`React 18` `TypeScript` `CSS-in-JS` `Vite` `GitHub Pages`  
-[Live →](https://majkan1.github.io/Mini-Budget-Tracker/) · [GitHub →](https://github.com/Majkan1/Mini-Budget-Tracker)
+### 💡 What I'm currently learning & improving
+
+- Advanced **testing patterns** (integration, e2e with Playwright)
+- **System design** and scaling Next.js applications
+- **PostgreSQL** query optimization and RLS policies with Supabase
 
 ---
 
-## Currently working on
+### 📫 Let's Connect!
 
-- 🔨 Building my personal portfolio website (React + Tailwind)
-- 🧪 Learning Jest + React Testing Library
-- ⚡ Studying Web Performance & Core Web Vitals
-- 📖 Deepening React knowledge — testing patterns, performance optimization
+- 📧 Email: [your.email@domain.com](mailto:your.email@domain.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 🌐 Portfolio (coming soon): [majkan.dev](https://majkan.dev)
 
 ---
 
-*Open to international internship opportunities — feel free to reach out!*  
-📧 majkanart117@gmail.com · [LinkedIn](https://www.linkedin.com/in/nicholas-michalak)
+<i>"I build things that work – and I prove it with code that is clean, typed, and tested."</i>
