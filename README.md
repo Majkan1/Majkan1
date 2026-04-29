@@ -50,9 +50,8 @@ I specialize in building modern, performant web applications with **React** and 
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [your.email@domain.com](mailto:your.email@domain.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio (coming soon): [majkan.dev](https://majkan.dev)
+- 📧 Email: majkanart117@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/nicholas-michalak
 
 ---
 
