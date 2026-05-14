@@ -1,6 +1,6 @@
 ## Hi there, I'm Majkan 👋
 
-**Front-end & Full-Stack Developer**•
+**Front-end & Full-Stack Developer** 
 Actively looking for **internship / junior position** (Front-end or Full-Stack)
 
 I specialize in building modern, performant web applications with **React** and **Next.js**, always backed by solid TypeScript. Recently I've expanded into full-stack territory using **Prisma** and **Supabase**, with a strong focus on testing ( **Vitest** + **React Testing Library**).
