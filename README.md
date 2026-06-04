@@ -32,9 +32,9 @@ I specialize in building modern, performant web applications with **React** and 
 ### 🚀 Featured Projects
 
 - **[Workout Tracker](https://github.com/Majkan1/workout-tracker)** – Full-stack fitness tracking app with Next.js 16, Prisma, Supabase (auth + DB), Server Actions, and 100% test coverage (Vitest + RTL).
-- **[Sport App](https://github.com/Majkan1/sport-app)** – Next.js league browser with dynamic routing, error boundaries, API integration, fully tested, deployed on Vercel.
-- **[Cocktail App](https://github.com/Majkan1/cocktail-app)** – SPA with React, TypeScript, React Router v6, search & pagination, unit tested with Vitest.
-- **[Weather App](https://github.com/Majkan1/weather-app)** – Minimalist weather app with debounce, dynamic icons, Open-Meteo API, tested and refactored into reusable components.
+- **[Sport App](https://github.com/Majkan1/sport-app)** – Next.js league browser with dynamic routing, error boundaries, API integration, deployed on Vercel.
+- **[Cocktail App](https://github.com/Majkan1/cocktail-app)** – SPA with React, TypeScript, React Router v6, search & pagination, .
+- **[Weather App](https://github.com/Majkan1/weather-app)** – Minimalist weather app with debounce, dynamic icons, Open-Meteo API, refactored into reusable components.
 
 > Check out all repos: [github.com/Majkan1?tab=repositories](https://github.com/Majkan1?tab=repositories)
 
