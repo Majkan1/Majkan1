@@ -1,10 +1,18 @@
+<div align="center">
+
 # Hi, I'm Mikołaj 👋
 
-### Front-End & Full-Stack Developer — looking for my first junior / entry-level role (remote)
+### Full-Stack Developer · open to remote work worldwide 🌍
 
-Self-taught developer building modern web apps with **React** and **Next.js**, always
-backed by **TypeScript**. Recently I moved into full-stack territory with **Prisma**
-and **PostgreSQL (Supabase)**, with a focus on clean, typed and tested code.
+I build modern web apps with **React**, **Next.js** and **TypeScript**, and ship them
+full-stack with **Prisma**, **PostgreSQL** and **Supabase** — clean, typed and tested,
+from the database all the way to production on **Vercel**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mikolajmichalak.dev-c8ff33?style=for-the-badge&logo=vercel&logoColor=black)](https://www.mikolajmichalak.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikolaj-michalak)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikolaj.michalak.dev@gmail.com)
+
+</div>
 
 ---
 
@@ -16,7 +24,6 @@ and **PostgreSQL (Supabase)**, with a focus on clean, typed and tested code.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend & Data**
 
@@ -26,54 +33,69 @@ and **PostgreSQL (Supabase)**, with a focus on clean, typed and tested code.
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
-**Testing & Tools**
+**Testing & Tooling**
 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-**[Workout Tracker](https://github.com/Majkan1/workout-tracker)** — Full-stack fitness app
-Next.js 16, TypeScript, Prisma + PostgreSQL (Supabase), Clerk auth, Zod validation and
-Server Actions. Full create/edit/delete for workouts and exercises, with per-user
-ownership checks, unit/component tests (Vitest + RTL) and a GitHub Actions CI pipeline.
-🔗 [Live demo](https://workout-tracker-majkan.vercel.app)
+### 🏋️ [Workout Tracker](https://github.com/Majkan1/workout-tracker) — *Full-stack fitness app*
+`Next.js 16` · `TypeScript` · `Prisma + PostgreSQL (Supabase)` · `Clerk` · `Zod` · `Vitest + CI`
+Authenticated users create, edit and delete workouts and exercises through **Server
+Actions**, with per-user ownership checks on every mutation, Zod-validated input, a
+Vitest test suite and a GitHub Actions pipeline that runs on every push.
+**→ [Live demo](https://workout-tracker-majkan.vercel.app)**
 
-**[Sport-app](https://github.com/Majkan1/Sport-app)** — Frontend app
-Next.js + TypeScript app built around an external REST API (TheSportsDB), with dynamic
-routing for leagues and teams and proper loading/error states. Deployed on Vercel.
+### ⚽ [Sport App](https://github.com/Majkan1/Sport-app) — *League & team browser*
+`Next.js 16` · `TypeScript` · `Tailwind CSS` · `TheSportsDB API`
+Browse football leagues and teams with instant search, dynamic routing and cached
+(ISR) data fetching, plus proper loading / error / not-found states.
+**→ [Live demo](https://sport-app-majkan.vercel.app)**
 
-**[Cocktail-App](https://github.com/Majkan1/Cocktail-App)** — React SPA
-React + TypeScript + React Router, consuming an external API with search, pagination
-and a favourites system.
+### 🍸 [Cocktail Browser](https://github.com/Majkan1/Cocktail-App) — *React SPA*
+`React 19` · `TypeScript` · `React Router` — search, pagination and a favourites system over an external API.
 
-**[Mini-Budget-Tracker](https://github.com/Majkan1/Mini-Budget-Tracker)** — React + TypeScript
-Budget tracker for income and expenses with running balance, categories and clean
-transaction history.
+### 💸 [Mini Budget Tracker](https://github.com/Majkan1/Mini-Budget-Tracker) — *React + TypeScript*
+Income & expense tracking with a running balance, categories and a clean transaction history.
 
-> See all repositories → [github.com/Majkan1?tab=repositories](https://github.com/Majkan1?tab=repositories)
+> 🌐 **See every project live on my portfolio → [mikolajmichalak.dev](https://www.mikolajmichalak.dev)**
 
 ---
 
-## 🌱 Currently learning & improving
+## 📊 GitHub Stats
 
-- Deepening my JavaScript & React fundamentals (closures, the event loop, rendering)
-- Writing broader, more meaningful test coverage
-- Database modelling and query design with Prisma & PostgreSQL
+<div align="center">
+
+![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majkan1&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkan1&layout=compact&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🌱 Currently leveling up
+
+- **Full-stack architecture** — designing data models, server actions and auth flows end-to-end
+- **Databases & data modelling** — relations, migrations and type-safe queries with Prisma & PostgreSQL
+- **Testing & CI** — meaningful tests with Vitest + RTL, verified on every push with GitHub Actions
+- **Web performance** — Core Web Vitals, caching and measuring real production apps
 
 ---
 
 ## 📫 Let's connect
 
-- **Email:** majkanart117@gmail.com
-- **LinkedIn:** [linkedin.com/in/mikolaj-michalak](https://www.linkedin.com/in/nicholas-michalak)
+- **Portfolio:** [mikolajmichalak.dev](https://www.mikolajmichalak.dev)
+- **LinkedIn:** [linkedin.com/in/mikolaj-michalak](https://www.linkedin.com/in/mikolaj-michalak)
+- **Email:** mikolaj.michalak.dev@gmail.com
 
 ---
 
-> *I build things that work — and I back them with code that's clean, typed and tested.*
+<div align="center">
+<em>I build things that work — and back them with code that's clean, typed and tested.</em>
+</div>
