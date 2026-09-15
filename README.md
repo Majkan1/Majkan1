@@ -66,19 +66,6 @@ Income & expense tracking with a running balance, categories and a clean transac
 
 > 🌐 **See every project live on my portfolio → [mikolajmichalak.dev](https://www.mikolajmichalak.dev)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majkan1&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkan1&layout=compact&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🌱 Currently leveling up
 
 - **Full-stack architecture** — designing data models, server actions and auth flows end-to-end
