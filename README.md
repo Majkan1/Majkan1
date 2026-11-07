@@ -24,6 +24,9 @@ from the database all the way to production on **Vercel**.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logoColor=white)
 
 **Backend & Data**
 
@@ -58,8 +61,12 @@ Browse football leagues and teams with instant search, dynamic routing and cache
 (ISR) data fetching, plus proper loading / error / not-found states.
 **→ [Live demo](https://sport-app-majkan.vercel.app)**
 
-### 🍸 [Cocktail Browser](https://github.com/Majkan1/Cocktail-App) — *React SPA*
-`React 19` · `TypeScript` · `React Router` — search, pagination and a favourites system over an external API.
+### 🍸 [Solvro Cocktails](https://github.com/Majkan1/solvro-cocktails) — *Cocktail browser*
+`Next.js 16` · `TypeScript` · `TanStack Query` · `Jotai` · `shadcn/ui`
+Paginated cocktail list with search by name, a details page with ingredients and
+measures, and favourites saved in localStorage. Server state is cached with
+**TanStack Query**, shared client state lives in **Jotai** atoms.
+**→ [Live demo](https://solvro-cocktails-app.vercel.app)**
 
 ### 💸 [Mini Budget Tracker](https://github.com/Majkan1/Mini-Budget-Tracker) — *React + TypeScript*
 Income & expense tracking with a running balance, categories and a clean transaction history.
